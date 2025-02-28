@@ -8,7 +8,7 @@ import { Providers } from "./providers"
 import { FloatMenu } from "@/components/float-menu"
 
 export const metadata: Metadata = {
-  title: "MoeMail - 萌萌哒临时邮箱服务",
+  title: "Welcome to SMU Email Eystem",
   description: "安全、快速、一次性的临时邮箱地址，保护您的隐私，远离垃圾邮件。支持即时收件，到期自动失效。",
   keywords: [
     "临时邮箱",
