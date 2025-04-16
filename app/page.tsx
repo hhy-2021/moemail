@@ -32,18 +32,18 @@ export default async function Home() {
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 px-4 sm:px-0">
                 <FeatureCard
                   icon={<Shield className="w-5 h-5" />}
-                  title="隐私保护"
-                  description="保护您的真实邮箱地址"
+                  title="安全保障"
+                  description="您的唯一校园邮箱"
                 />
                 <FeatureCard
                   icon={<Mail className="w-5 h-5" />}
-                  title="即时收件"
+                  title="校园邮局"
                   description="实时接收邮件通知"
                 />
                 <FeatureCard
                   icon={<Clock className="w-5 h-5" />}
-                  title="自动过期"
-                  description="到期自动失效"
+                  title="永久邮箱"
+                  description="毕业后邮箱邮箱仍有效"
                 />
               </div>
 
