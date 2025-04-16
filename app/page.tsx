@@ -20,12 +20,12 @@ export default async function Home() {
             <div className="w-full max-w-3xl mx-auto space-y-12 py-8">
               <div className="space-y-4">
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-wider">
-                  <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary to-purple-600">
-                    MoeMail
+                  <span className="bg-clip-text from-primary to-purple-600">
+                    State Medical University of Kyrgyzstan
                   </span>
                 </h1>
                 <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 tracking-wide">
-                  萌萌哒临时邮箱服务
+                  www.smu.edu.kg
                 </p>
               </div>
 
